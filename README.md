@@ -1,4 +1,4 @@
-# Neflix Data Analysis Project 
+# Netflix Data Analysis Project 
 
 ## Tables of Contents: 
 - [Project Overview](#project-overview)  
